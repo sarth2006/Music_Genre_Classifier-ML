@@ -100,12 +100,7 @@ jupyter notebook
 
 ## ⚠ Kaggle API Setup (Important)
 
-This project may require downloading datasets from Kaggle.
-
-For security reasons:
-
--   Do NOT upload your `kaggle.json` file to GitHub.
--   The `kaggle.json` file contains your private API credentials.
+This project requires downloading datasets from Kaggle.
 
 ### How to Configure Kaggle API
 
@@ -118,9 +113,6 @@ mkdir ~/.kaggle
 mv kaggle.json ~/.kaggle/
 chmod 600 ~/.kaggle/kaggle.json
 ```
-
-This ensures secure access to Kaggle datasets without exposing
-credentials.
 
 ------------------------------------------------------------------------
 
