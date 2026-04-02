@@ -68,13 +68,8 @@ accuracy on test data.
 
     Music_Genre_Classifier/
     │
-    ├── notebooks/
-    │   └── genre_classification.ipynb
-    │
-    ├── data/
-    │   └── (audio dataset)
-    │
-    ├── requirements.txt
+    ├── Music_Genre_Classifier.ipynb
+    ├── LICENSE
     ├── README.md
     └── .gitignore
 
